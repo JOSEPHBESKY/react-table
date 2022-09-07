@@ -1,0 +1,28 @@
+.head{
+  background-color:darkorange;
+}
+.body{
+  background-color: burlywood;
+}
+.edi{
+  background-color: blue;
+  color: antiquewhite;
+}
+.del{
+  background-color: darkred;
+  color: antiquewhite;
+}
+.sav{
+  background-color: darkgreen;
+  color: antiquewhite;
+}
+.can{
+  background-color: yellow;
+ 
+}
+input{
+  background-color: aqua;
+}
+.add{
+  background-color: yellowgreen;
+}
